@@ -1,0 +1,2 @@
+lyricsgenius==1.8.2
+fbchat==1.9.6
